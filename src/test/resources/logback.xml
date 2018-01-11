@@ -13,8 +13,6 @@
     </encoder>
   </appender>
 
-  <logger name="Marionette" level="ERROR"/>
-  <logger name="geckodriver" level="ERROR"/>
   
   <root level="DEBUG">
     <appender-ref ref="FILE" />
