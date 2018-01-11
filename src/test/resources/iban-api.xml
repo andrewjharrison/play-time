@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>  
+<ns2:ApiDescriptor xmlns:ns2="http://insolvency.gov.uk/schema">
+	<ns2:id>iban</ns2:id>
+	<ns2:name>IBAN Sortcode API</ns2:name>
+	<ns2:category>Bank Account Verification</ns2:category>
+	<ns2:baseUrl>https://www.iban.com</ns2:baseUrl>
+	<ns2:credential>
+		<ns2:username>a23b49a5f516eb14eb9012c04a46a493</ns2:username>
+	</ns2:credential>
+	<ns2:endpoints>
+	   <ns2:endpoint>
+			<ns2:description>Check Sortcode and Bank Account number (Need to buy access)</ns2:description>
+			<ns2:requestType>GET</ns2:requestType>
+			<ns2:uri>/clients/api/sort-api.php?api_key={username}&amp;sortcode={sortcode}&amp;account={accountNo}</ns2:uri>
+			<ns2:params>
+				<ns2:param>sortcode</ns2:param>
+				<ns2:param>accountNo</ns2:param>
+			</ns2:params>
+		</ns2:endpoint>
+		<ns2:endpoint>
+			<ns2:description>IBAN API V2</ns2:description>
+			<ns2:requestType>GET</ns2:requestType>
+			<ns2:uri>/clients/api/ibanv2.php?api_key={username}&amp;format=json&amp;iban={iban}</ns2:uri>
+			<ns2:params>
+				<ns2:param>iban</ns2:param>
+			</ns2:params>
+		</ns2:endpoint>
+	</ns2:endpoints>
+
+</ns2:ApiDescriptor>
+
