@@ -18,8 +18,8 @@
 *.tar.gz
 *.rar
 
-*/target/**
-*/.settings/**
+target/**
+.settings/**
 */.project
 */.classpath
 
