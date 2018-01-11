@@ -25,7 +25,7 @@ public class FileServiceImpl implements FileService {
     private String directoryPath;
 
     @Autowired
-    private ContentReaderManager fileManager;
+    private ContentReaderManager contentReaderManager;
 
     @Autowired
     private Expectations expectations;
@@ -47,7 +47,7 @@ public class FileServiceImpl implements FileService {
         if (location.isDirectory()) {
             for (final File file : location.listFiles()) {
                 // check the ContentReaders for supported types
-                if (!file.isDirectory() && fileManager.getContentReader(file) != null) {
+                if (!file.isDirectory() && contentReaderManager.getContentReader(file) != null) {
                     supportedFiles.add(file);
                 }
             }
@@ -58,7 +58,7 @@ public class FileServiceImpl implements FileService {
 
     public void checkVehicles(final List<File> files) {
         for (final File file : files) {
-            final List<VehicleData> vehicles = fileManager.getContentReader(file).getContents(file);
+            final List<VehicleData> vehicles = contentReaderManager.getContentReader(file).getContents(file);
             expectations.checkVehicles(vehicles);
         }
     }

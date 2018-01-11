@@ -11,7 +11,6 @@ import java.util.List;
 import org.junit.Test;
 
 import uk.co.harrisoft.application.model.VehicleData;
-import uk.co.harrisoft.application.reader.CsvContentReader;
 
 public class CsvContentReaderTest {
 
@@ -29,7 +28,7 @@ public class CsvContentReaderTest {
         final List<VehicleData> result = reader.getContents(new File("src/test/resources/vehicles.csv"));
         assertNotNull(result);
         assertFalse(result.isEmpty());
-        assertEquals(1, result.size());
+        assertEquals(3, result.size());
         assertEquals(new VehicleData("BJ16RNN", "SUZUKI", "RED"), result.get(0));
     }
 

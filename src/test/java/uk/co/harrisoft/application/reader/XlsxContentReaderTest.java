@@ -11,7 +11,6 @@ import java.util.List;
 import org.junit.Test;
 
 import uk.co.harrisoft.application.model.VehicleData;
-import uk.co.harrisoft.application.reader.XlsxContentReader;
 
 public class XlsxContentReaderTest {
 
@@ -38,7 +37,7 @@ public class XlsxContentReaderTest {
         final List<VehicleData> result = reader.getContents(new File("src/test/resources/vehicles.xlsx"));
         assertNotNull(result);
         assertFalse(result.isEmpty());
-        assertEquals(1, result.size());
-        assertEquals(new VehicleData("BJ16RNN", "SUZUKI", "RED"), result.get(0));
+        assertEquals(2, result.size());
+        assertEquals(new VehicleData("VX07JNN", "SUZUKI", "BLUE"), result.get(0));
     }
 }
