@@ -1,0 +1,358 @@
+12:01:45.217 [main] DEBUG uk.co.harrisoft.application.TestApplication - Started application
+Jan 11, 2018 12:01:45 PM org.springframework.context.annotation.AnnotationConfigApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4aa8f0b4: startup date [Thu Jan 11 12:01:45 GMT 2018]; root of context hierarchy
+12:01:45.774 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename EAS-integration-soapui-project.xml, file mime type application/xml, file size 0 bytes, file extension xml
+12:01:45.779 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename companieshouse-api.xml, file mime type application/xml, file size 7 bytes, file extension xml
+12:01:45.783 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename .pgadmin_histoqueries, file mime type application/xml, file size 0 bytes, file extension pgadmin_histoqueries
+12:01:45.787 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename remote-skyscape-camel-soapui-project3.xml, file mime type application/xml, file size 9 bytes, file extension xml
+12:01:45.791 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename remote-SOAP-soapui-project.xml, file mime type application/xml, file size 97 bytes, file extension xml
+12:01:45.796 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename .DS_Store, file mime type application/octet-stream, file size 28 bytes, file extension DS_Store
+12:01:45.799 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename default-soapui-workspace.xml, file mime type application/xml, file size 1 bytes, file extension xml
+12:01:45.802 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename svr_wmsp.zip, file mime type application/zip, file size 4194302 bytes, file extension zip
+12:01:45.805 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename remote-skyscape-camel-soapui-project2.xml, file mime type application/xml, file size 0 bytes, file extension xml
+12:01:45.808 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename testdb.mv.db, file mime type application/octet-stream, file size 12 bytes, file extension mv
+12:01:45.809 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename .CFUserTextEncoding, file mime type text/plain, file size 0 bytes, file extension CFUserTextEncoding
+12:01:45.811 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename user.dic, file mime type text/plain, file size 0 bytes, file extension dic
+12:01:45.815 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename dbvis_macos_9_5_7.dmg, file mime type application/x-apple-diskimage, file size 39740 bytes, file extension dmg
+12:01:45.819 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename dbvis_macos_9_5_6.dmg, file mime type application/x-apple-diskimage, file size 39408 bytes, file extension dmg
+12:01:45.821 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename local-fees-service-soapui-project.xml, file mime type application/xml, file size 0 bytes, file extension xml
+12:01:45.822 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename H-Evaluation-AWS-KeyPair.pem.gz, file mime type application/gzip, file size 1 bytes, file extension pem
+12:01:45.825 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename ip_user_registration.sql, file mime type text/x-sql, file size 0 bytes, file extension sql
+12:01:45.827 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename update-pit-records-0.0.1-SNAPSHOT.jar, file mime type application/java-archive, file size 17730 bytes, file extension 0
+12:01:45.830 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename vehicles.xls, file mime type application/vnd.ms-excel, file size 57 bytes, file extension xls
+12:01:45.835 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename sos-soapui-project.xml, file mime type application/xml, file size 28 bytes, file extension xml
+12:01:45.838 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename .psql_history, file mime type text/plain, file size 3 bytes, file extension psql_history
+12:01:45.838 [main] ERROR uk.co.harrisoft.application.service.ContentReaderManagerImpl - Unknown file type /Users/Andrew/.rnd
+12:01:45.841 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename remote-skyscape-camel-soapui-project.xml, file mime type application/xml, file size 0 bytes, file extension xml
+12:01:45.843 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename insert case.sql, file mime type text/x-sql, file size 1 bytes, file extension sql
+12:01:45.846 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename restharness-0.0.1-SNAPSHOT.war, file mime type application/x-tika-java-web-archive, file size 9558 bytes, file extension 0
+12:01:45.849 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename .lesshst, file mime type text/plain, file size 0 bytes, file extension lesshst
+12:01:45.852 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename local-camel-soapui-project2.xml, file mime type application/xml, file size 19 bytes, file extension xml
+12:01:45.855 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename soapui-settings.xml, file mime type application/xml, file size 2 bytes, file extension xml
+12:01:45.857 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename users.zip, file mime type application/zip, file size 43 bytes, file extension zip
+12:01:45.860 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename DCRS-Schema-20170201a.jpg, file mime type image/jpeg, file size 190 bytes, file extension jpg
+12:01:45.863 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename wsdltest-soapui-project.xml, file mime type application/xml, file size 10 bytes, file extension xml
+12:01:45.867 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename .uuid, file mime type text/plain, file size 0 bytes, file extension uuid
+12:01:45.870 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename DCRS-Schema-20170201.jpg, file mime type image/jpeg, file size 207 bytes, file extension jpg
+12:01:45.871 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename .registration.xml.bak, file mime type application/octet-stream, file size 0 bytes, file extension registration
+12:01:45.875 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename SoapUI-5.3.0.dmg, file mime type application/x-iso9660-image, file size 120966 bytes, file extension 3
+12:01:45.878 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename pgadmin.log, file mime type text/x-log, file size 0 bytes, file extension log
+12:01:45.882 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename extract.sql, file mime type text/x-sql, file size 132 bytes, file extension sql
+12:01:45.885 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename vehicles.xlsx, file mime type application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, file size 24 bytes, file extension xlsx
+12:01:45.889 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename questions.csv, file mime type text/csv, file size 9 bytes, file extension csv
+12:01:45.890 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename .pgpass, file mime type text/plain, file size 0 bytes, file extension pgpass
+12:01:45.894 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename AddressLookup-local-soapui-project.xml, file mime type application/xml, file size 51 bytes, file extension xml
+12:01:45.897 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename SoapUI-5.4.0.dmg, file mime type application/x-iso9660-image, file size 139794 bytes, file extension 4
+12:01:45.901 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename local-camel-soapui-project.xml, file mime type application/xml, file size 0 bytes, file extension xml
+12:01:45.904 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename .bash_profile, file mime type text/plain, file size 0 bytes, file extension bash_profile
+12:01:45.907 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename iban-api.xml, file mime type application/xml, file size 1 bytes, file extension xml
+12:01:45.909 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename .gitconfig, file mime type text/plain, file size 0 bytes, file extension gitconfig
+12:01:45.911 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename vehicles.csv, file mime type text/csv, file size 0 bytes, file extension csv
+12:01:45.914 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename .bash_history, file mime type text/plain, file size 8 bytes, file extension bash_history
+12:01:45.918 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename .viminfo, file mime type text/plain, file size 20 bytes, file extension viminfo
+12:01:45.920 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename ip_user.sql, file mime type text/x-sql, file size 1 bytes, file extension sql
+12:01:45.922 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename vehicles.xls, file mime type application/vnd.ms-excel, file size 57 bytes, file extension xls
+12:01:46.070 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Attempting vehicle with VRM G446LAW
+1515672106350	geckodriver	INFO	geckodriver 0.19.1
+1515672106355	geckodriver	INFO	Listening on 127.0.0.1:36575
+1515672106728	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/fx/tv8pjw3x7k96yll5txn2pfc00000gn/T/rust_mozprofile.gXFvAAnL8eVf"
+1515672107262	Marionette	INFO	Enabled via --marionette
+2018-01-11 12:01:48.009 plugin-container[21160:9700734] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515672108409	Marionette	INFO	Listening on port 53247
+1515672108538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515672108583	Marionette	DEBUG	Register listener.js for window 2147483649
+Jan 11, 2018 12:01:48 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1515672108633	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515672108722	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515672108722	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515672109030	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672109168	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672109242	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672109614	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672109614	Marionette	DEBUG	Received DOM event "unload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672109939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/"
+1515672110006	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/"
+1515672110104	Marionette	DEBUG	Received DOM event "beforeunload" for "https://vehicleenquiry.service.gov.uk/"
+1515672110192	Marionette	DEBUG	Received DOM event "pagehide" for "https://vehicleenquiry.service.gov.uk/"
+1515672110193	Marionette	DEBUG	Received DOM event "unload" for "https://vehicleenquiry.service.gov.uk/"
+1515672110254	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672110302	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+12:01:50.404 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Vehicle with VRM G446LAW has not been verified on the overview page
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+12:01:50.467 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Attempting vehicle with VRM G446LAW
+1515672110477	geckodriver	INFO	geckodriver 0.19.1
+1515672110482	geckodriver	INFO	Listening on 127.0.0.1:24592
+1515672110572	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/fx/tv8pjw3x7k96yll5txn2pfc00000gn/T/rust_mozprofile.FfvwHZwhFKMa"
+1515672111059	Marionette	INFO	Enabled via --marionette
+2018-01-11 12:01:51.816 plugin-container[21164:9700973] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xac03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515672112223	Marionette	INFO	Listening on port 53442
+1515672112259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515672112306	Marionette	DEBUG	Register listener.js for window 2147483649
+Jan 11, 2018 12:01:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1515672112332	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515672114356	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515672114356	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515672114671	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672114813	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672114875	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672115228	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672115228	Marionette	DEBUG	Received DOM event "unload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672115600	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/"
+1515672115643	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/"
+1515672115738	Marionette	DEBUG	Received DOM event "beforeunload" for "https://vehicleenquiry.service.gov.uk/"
+1515672115807	Marionette	DEBUG	Received DOM event "pagehide" for "https://vehicleenquiry.service.gov.uk/"
+1515672115807	Marionette	DEBUG	Received DOM event "unload" for "https://vehicleenquiry.service.gov.uk/"
+1515672115886	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672115923	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+12:01:56.023 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Vehicle with VRM G446LAW has not been verified on the overview page
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+12:01:56.094 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Attempting vehicle with VRM G446LAW
+1515672116102	geckodriver	INFO	geckodriver 0.19.1
+1515672116107	geckodriver	INFO	Listening on 127.0.0.1:26293
+1515672116201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/fx/tv8pjw3x7k96yll5txn2pfc00000gn/T/rust_mozprofile.GJBGNAGhaa4M"
+1515672116681	Marionette	INFO	Enabled via --marionette
+2018-01-11 12:01:57.383 plugin-container[21168:9701546] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1503f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515672117775	Marionette	INFO	Listening on port 53656
+1515672117896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515672117946	Marionette	DEBUG	Register listener.js for window 2147483649
+Jan 11, 2018 12:01:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1515672117961	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515672118045	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515672118046	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515672118328	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672118469	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672118529	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672118959	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672118959	Marionette	DEBUG	Received DOM event "unload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672119286	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/"
+1515672119338	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/"
+1515672119489	Marionette	DEBUG	Received DOM event "beforeunload" for "https://vehicleenquiry.service.gov.uk/"
+1515672119621	Marionette	DEBUG	Received DOM event "pagehide" for "https://vehicleenquiry.service.gov.uk/"
+1515672119621	Marionette	DEBUG	Received DOM event "unload" for "https://vehicleenquiry.service.gov.uk/"
+1515672119684	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672119721	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+12:01:59.817 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Vehicle with VRM G446LAW has been verified on the overview page
+1515672120036	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515672120067	Marionette	DEBUG	Received DOM event "beforeunload" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672120104	Marionette	DEBUG	Received DOM event "pagehide" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672120104	Marionette	DEBUG	Received DOM event "unload" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672120175	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/ViewVehicle"
+1515672120232	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/ViewVehicle"
+12:02:00.297 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Vehicle with VRM G446LAW has been verified on the details page
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+12:02:00.360 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Attempting vehicle with VRM B127THD
+1515672120371	geckodriver	INFO	geckodriver 0.19.1
+1515672120378	geckodriver	INFO	Listening on 127.0.0.1:17299
+1515672120469	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/fx/tv8pjw3x7k96yll5txn2pfc00000gn/T/rust_mozprofile.Xsvi1Cg5Uqnm"
+1515672120988	Marionette	INFO	Enabled via --marionette
+2018-01-11 12:02:01.718 plugin-container[21172:9702035] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515672122047	Marionette	INFO	Listening on port 53883
+1515672122149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515672122197	Marionette	DEBUG	Register listener.js for window 2147483649
+Jan 11, 2018 12:02:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1515672122211	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515672122301	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515672122302	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515672122578	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672122712	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672122770	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672123159	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672123160	Marionette	DEBUG	Received DOM event "unload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672123495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/"
+1515672123549	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/"
+1515672123637	Marionette	DEBUG	Received DOM event "beforeunload" for "https://vehicleenquiry.service.gov.uk/"
+1515672123747	Marionette	DEBUG	Received DOM event "pagehide" for "https://vehicleenquiry.service.gov.uk/"
+1515672123748	Marionette	DEBUG	Received DOM event "unload" for "https://vehicleenquiry.service.gov.uk/"
+1515672123804	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672123850	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+12:02:03.944 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Vehicle with VRM B127THD has been verified on the overview page
+1515672124162	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515672124197	Marionette	DEBUG	Received DOM event "beforeunload" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672124236	Marionette	DEBUG	Received DOM event "pagehide" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672124236	Marionette	DEBUG	Received DOM event "unload" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672124312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/ViewVehicle"
+1515672124352	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/ViewVehicle"
+12:02:04.414 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Vehicle with VRM B127THD has been verified on the details page
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+12:02:04.481 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename vehicles.xlsx, file mime type application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, file size 24 bytes, file extension xlsx
+12:02:04.793 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Attempting vehicle with VRM VX07JNN
+1515672124802	geckodriver	INFO	geckodriver 0.19.1
+1515672124807	geckodriver	INFO	Listening on 127.0.0.1:12366
+1515672124895	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/fx/tv8pjw3x7k96yll5txn2pfc00000gn/T/rust_mozprofile.qT8qkcNXTE6i"
+1515672125341	Marionette	INFO	Enabled via --marionette
+2018-01-11 12:02:06.058 plugin-container[21175:9702384] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1503f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515672126421	Marionette	INFO	Listening on port 54105
+1515672126469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515672126519	Marionette	DEBUG	Register listener.js for window 2147483649
+Jan 11, 2018 12:02:06 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1515672126548	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515672131605	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515672131605	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515672132066	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672132251	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672132308	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672132644	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672132644	Marionette	DEBUG	Received DOM event "unload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672132934	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/"
+1515672132982	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/"
+1515672133070	Marionette	DEBUG	Received DOM event "beforeunload" for "https://vehicleenquiry.service.gov.uk/"
+1515672133125	Marionette	DEBUG	Received DOM event "pagehide" for "https://vehicleenquiry.service.gov.uk/"
+1515672133126	Marionette	DEBUG	Received DOM event "unload" for "https://vehicleenquiry.service.gov.uk/"
+1515672133178	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672133212	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+12:02:13.243 [main] WARN uk.co.harrisoft.application.selenium.web.Expectations - Unable to find the VRM provided : VX07JNN
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21175, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+12:02:13.314 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Attempting vehicle with VRM WVH663V
+1515672133323	geckodriver	INFO	geckodriver 0.19.1
+1515672133330	geckodriver	INFO	Listening on 127.0.0.1:27868
+1515672133420	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/fx/tv8pjw3x7k96yll5txn2pfc00000gn/T/rust_mozprofile.PYJQ2qH6dMWT"
+1515672133893	Marionette	INFO	Enabled via --marionette
+2018-01-11 12:02:14.626 plugin-container[21179:9702792] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515672134948	Marionette	INFO	Listening on port 54327
+1515672135014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515672135063	Marionette	DEBUG	Register listener.js for window 2147483649
+Jan 11, 2018 12:02:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1515672135078	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515672135184	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515672135184	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515672135450	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672135592	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672135646	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672135961	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672135961	Marionette	DEBUG	Received DOM event "unload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672136265	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/"
+1515672136308	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/"
+1515672136403	Marionette	DEBUG	Received DOM event "beforeunload" for "https://vehicleenquiry.service.gov.uk/"
+1515672136494	Marionette	DEBUG	Received DOM event "pagehide" for "https://vehicleenquiry.service.gov.uk/"
+1515672136494	Marionette	DEBUG	Received DOM event "unload" for "https://vehicleenquiry.service.gov.uk/"
+1515672136554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672136600	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+12:02:16.689 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Vehicle with VRM WVH663V has been verified on the overview page
+1515672136909	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515672136940	Marionette	DEBUG	Received DOM event "beforeunload" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672136973	Marionette	DEBUG	Received DOM event "pagehide" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672136973	Marionette	DEBUG	Received DOM event "unload" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672137028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/ViewVehicle"
+1515672137100	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/ViewVehicle"
+12:02:17.164 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Vehicle with VRM WVH663V has been verified on the details page
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+12:02:17.235 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename questions.csv, file mime type text/csv, file size 9 bytes, file extension csv
+12:02:17.238 [main] INFO uk.co.harrisoft.application.service.ContentReaderManagerImpl - filename vehicles.csv, file mime type text/csv, file size 0 bytes, file extension csv
+12:02:17.239 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Attempting vehicle with VRM BJ16RNN
+1515672137248	geckodriver	INFO	geckodriver 0.19.1
+1515672137252	geckodriver	INFO	Listening on 127.0.0.1:7435
+1515672137372	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/fx/tv8pjw3x7k96yll5txn2pfc00000gn/T/rust_mozprofile.HTzAvp91HqMh"
+1515672137866	Marionette	INFO	Enabled via --marionette
+2018-01-11 12:02:18.589 plugin-container[21183:9703344] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1523f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515672138941	Marionette	INFO	Listening on port 54543
+1515672139050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515672139097	Marionette	DEBUG	Register listener.js for window 2147483649
+Jan 11, 2018 12:02:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1515672139115	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515672139191	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515672139191	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515672139458	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672139597	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672139655	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672140006	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672140006	Marionette	DEBUG	Received DOM event "unload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672140289	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/"
+1515672140416	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/"
+1515672140502	Marionette	DEBUG	Received DOM event "beforeunload" for "https://vehicleenquiry.service.gov.uk/"
+1515672140584	Marionette	DEBUG	Received DOM event "pagehide" for "https://vehicleenquiry.service.gov.uk/"
+1515672140585	Marionette	DEBUG	Received DOM event "unload" for "https://vehicleenquiry.service.gov.uk/"
+1515672140643	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672140682	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+12:02:20.775 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Vehicle with VRM BJ16RNN has been verified on the overview page
+1515672140994	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515672141024	Marionette	DEBUG	Received DOM event "beforeunload" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672141062	Marionette	DEBUG	Received DOM event "pagehide" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672141062	Marionette	DEBUG	Received DOM event "unload" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672141119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/ViewVehicle"
+1515672141179	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/ViewVehicle"
+12:02:21.245 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Vehicle with VRM BJ16RNN has been verified on the details page
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+12:02:21.310 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Attempting vehicle with VRM VX07PHU
+1515672141320	geckodriver	INFO	geckodriver 0.19.1
+1515672141327	geckodriver	INFO	Listening on 127.0.0.1:40598
+1515672141520	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/fx/tv8pjw3x7k96yll5txn2pfc00000gn/T/rust_mozprofile.uqEIZp5OxEw8"
+1515672142010	Marionette	INFO	Enabled via --marionette
+2018-01-11 12:02:22.746 plugin-container[21186:9703807] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515672143175	Marionette	INFO	Listening on port 54774
+1515672143202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515672143252	Marionette	DEBUG	Register listener.js for window 2147483649
+Jan 11, 2018 12:02:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1515672143264	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515672146901	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515672146902	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515672147229	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672147418	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672147474	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672147800	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672147800	Marionette	DEBUG	Received DOM event "unload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672148172	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/"
+1515672148234	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/"
+1515672148323	Marionette	DEBUG	Received DOM event "beforeunload" for "https://vehicleenquiry.service.gov.uk/"
+1515672148389	Marionette	DEBUG	Received DOM event "pagehide" for "https://vehicleenquiry.service.gov.uk/"
+1515672148390	Marionette	DEBUG	Received DOM event "unload" for "https://vehicleenquiry.service.gov.uk/"
+1515672148445	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672148477	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+12:02:28.512 [main] WARN uk.co.harrisoft.application.selenium.web.Expectations - Unable to find the VRM provided : VX07PHU
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+12:02:28.591 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Attempting vehicle with VRM VE07PHU
+1515672148608	geckodriver	INFO	geckodriver 0.19.1
+1515672148614	geckodriver	INFO	Listening on 127.0.0.1:6031
+1515672148708	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/fx/tv8pjw3x7k96yll5txn2pfc00000gn/T/rust_mozprofile.175G6WjvGA1r"
+1515672149209	Marionette	INFO	Enabled via --marionette
+2018-01-11 12:02:29.946 plugin-container[21190:9704461] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515672150276	Marionette	INFO	Listening on port 54981
+1515672150379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515672150425	Marionette	DEBUG	Register listener.js for window 2147483649
+Jan 11, 2018 12:02:30 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1515672150451	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515672150530	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515672150531	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515672150796	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672150934	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672150988	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672151357	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672151357	Marionette	DEBUG	Received DOM event "unload" for "https://www.gov.uk/get-vehicle-information-from-dvla"
+1515672151652	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/"
+1515672151697	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/"
+1515672151793	Marionette	DEBUG	Received DOM event "beforeunload" for "https://vehicleenquiry.service.gov.uk/"
+1515672151925	Marionette	DEBUG	Received DOM event "pagehide" for "https://vehicleenquiry.service.gov.uk/"
+1515672151925	Marionette	DEBUG	Received DOM event "unload" for "https://vehicleenquiry.service.gov.uk/"
+1515672151988	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672152035	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+12:02:32.125 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Vehicle with VRM VE07PHU has been verified on the overview page
+1515672152344	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515672152375	Marionette	DEBUG	Received DOM event "beforeunload" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672152412	Marionette	DEBUG	Received DOM event "pagehide" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672152413	Marionette	DEBUG	Received DOM event "unload" for "https://vehicleenquiry.service.gov.uk/ConfirmVehicle"
+1515672152470	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vehicleenquiry.service.gov.uk/ViewVehicle"
+1515672152530	Marionette	DEBUG	Received DOM event "pageshow" for "https://vehicleenquiry.service.gov.uk/ViewVehicle"
+12:02:32.594 [main] INFO uk.co.harrisoft.application.selenium.web.Expectations - Vehicle with VRM VE07PHU has been verified on the details page
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21190, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+12:02:32.658 [main] DEBUG uk.co.harrisoft.application.TestApplication - Finished Application
+
