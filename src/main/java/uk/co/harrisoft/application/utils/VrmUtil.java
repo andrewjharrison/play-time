@@ -2,7 +2,12 @@ package uk.co.harrisoft.application.utils;
 
 import java.util.regex.Pattern;
 
-public class VrmUtil {
+/**
+ * Contants class to hold the DVLA VRM Regex.
+ *
+ * @author Andrew
+ */
+public final class VrmUtil {
 
     /** regex taken from https://gist.github.com/danielrbradley/7567269. */
     public static final Pattern VRM_REGEX = Pattern.compile(

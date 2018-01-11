@@ -14,6 +14,9 @@ import uk.co.harrisoft.application.model.VehicleData;
 import uk.co.harrisoft.application.selenium.web.Expectations;
 
 /**
+ * File Service Implementation to retrieve a list of supported files and compare
+ * the contents against a website.
+ * 
  * @author Andrew
  */
 @Component
